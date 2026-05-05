@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    
     "@tailwindcss/vite": "latest",
     "@vitejs/plugin-react": "latest",
     "vite": "latest",
@@ -20,6 +21,8 @@
     "tailwindcss": "latest"
   },
   "devDependencies": {
+    "vite": "^5",
+    "@vitejs/plugin-react": "^4",
     "@types/react": "latest",
     "@types/react-dom": "latest"
   }
