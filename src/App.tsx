@@ -311,7 +311,7 @@ const App: React.FC = () => {
 
         <div className="relative z-10 max-w-4xl px-6 text-center">
           <div className="inline-block mb-6 px-5 py-1.5 rounded-full bg-white/60 backdrop-blur-md border border-white/70 text-xs tracking-[3px] text-[#5d4b3f]">
-            FAREWELL DAY • MAY 16
+            FAREWELL DAY • MAY 8
           </div>
           
           <h1 className="font-serif text-[72px] md:text-[92px] leading-[0.9] tracking-[-4.2px] mb-4 text-[#32251f]">
@@ -346,7 +346,7 @@ const App: React.FC = () => {
           <div className="text-center mb-16">
             <div className="text-xs tracking-[4px] text-[#a18e7b]">THE JOURNEY WE SHARED</div>
             <h2 className="font-serif text-6xl md:text-7xl tracking-[-2.8px] mt-3">You guided us.<br />Our story in three breaths.</h2>
-            <p className="mt-4 max-w-md mx-auto text-[#6c584a]">Through every laugh, every late night, and every quiet moment of guidance — these are the memories that shaped us.</p>
+            <p className="mt-4 max-w-md mx-auto text-[#6c584a]">Through every laugh and every quiet moment of guidance — these are the memories that shaped us.</p>
           </div>
 
           <div className="space-y-8 md:space-y-10 max-w-3xl mx-auto">
@@ -563,7 +563,7 @@ const App: React.FC = () => {
                   <div className="flex gap-4 items-start">
                     <MapPin className="mt-1 w-5 h-5 text-purple-500/70" />
                     <div>
-                      <div className="font-medium tracking-wide text-sm">ROOM C-113</div>
+                      <div className="font-medium tracking-wide text-sm">ROOM C-014</div>
                       <div className="text-[#a18e7b] text-sm">G.H Raisoni Campus, Nagpur</div>
                     </div>
                   </div>
@@ -605,7 +605,7 @@ const App: React.FC = () => {
 
           <div className="mt-16 flex items-center justify-center gap-3 text-sm tracking-[2px]">
             <div className="h-px w-9 bg-white/30" /> 
-            WITH LOVE, CYBER SECURITY DEPARTMENT • CLASS OF 202 
+            WITH LOVE, CYBER SECURITY DEPARTMENT • CLASS OF 2026 
             <div className="h-px w-9 bg-white/30" />
           </div>
 
